@@ -1,0 +1,43 @@
+section.output{
+    border: 1px solid;
+    height: 100px;
+    background-color: skyblue;
+    margin-bottom: 50px;
+
+
+}
+
+section#input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+button{
+
+    aspect-ratio: 1;
+    width: 25%;
+    padding: 30px;
+    font-size: 40px;
+    border-radius: 100%;
+    
+}
+
+
+
+
+.sps{
+    background-color: orange;
+}
+
+.sps2{
+    background-color: goldenrod;
+}
+
+.calc{
+    border: 5px solid;
+    width: 500px;
+    background-color: aqua;
+}
