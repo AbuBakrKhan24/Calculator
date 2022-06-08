@@ -1,8 +1,18 @@
+body {
+  display: flex;
+}
+
+.colors {
+  margin-left: 10px;
+  border-radius: 0%;
+}
+
 section#output {
   border: 1px solid;
   height: 100px;
   background-color: skyblue;
   margin-bottom: 50px;
+  font-size: 50px;
 }
 
 section#input {
