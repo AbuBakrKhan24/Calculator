@@ -14,4 +14,5 @@ function calculate() {
 function reset(clear) {
   console.log(" ");
   document.getElementById("output").innerHTML = " ";
+  sum = " ";
 }
